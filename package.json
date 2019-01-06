@@ -1,0 +1,22 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "This is a back-end part with Express and MongoDB.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalinathukorala/NodeAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalinathukorala/NodeAPI/issues"
+  },
+  "homepage": "https://github.com/nalinathukorala/NodeAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
